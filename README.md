@@ -9,7 +9,7 @@ To set up your work environment begin by cloning the repository
 Next, you must build the extension.
 
 ```
-cd Team-Potato
+cd Scrime/extension
 npm install
 npm run build
 ```
